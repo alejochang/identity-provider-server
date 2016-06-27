@@ -20,13 +20,21 @@ Change default port value in application.properties
 ##Files added/modified
 
 com.alejochang.controller.CredentialsController
+
 com.alejochang.filter.CORSFilter
+
 com.alejochang.model.AuthToken
+
 com.alejochang.model.User
+
 com.alejochang.repository.AuthTokenRepository
+
 com.alejochang.repository.UserRepository
+
 com.alejochang.service.UserService
+
 com.alejochang.service.UserServiceImpl
+
 com.alejochang.IdentityProviderServerBoot
 
 
